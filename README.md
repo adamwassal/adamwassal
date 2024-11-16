@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @adamwassal
-- 👀 I’m interested in python
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Adam Wael 👋
 
-<!---
-adamwassal/adamwassal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 **Front-End Developer** | 🐍 **Python Enthusiast**
+
+Welcome to my GitHub profile! I love building interactive and efficient web applications, Mobile applications, exploring new technologies, and contributing to open-source projects.
+
+## 🔧 Technologies & Tools
+- **Front-End:** HTML5, CSS3, JavaScript
+- **Back-End:** Python,Django
+- **Database:** SQLite
+- **Mobile Dev:** Flutter
+- **Other Tools:** Git, VS Code
+
+
+## 🛠️ Projects
+Here are some of my favorite projects:
+- [**Eat Today App**](#): A Flutter app to recommend the meals every day.
+- [**Project management system**](#): A django app to manage your company.
+- [**And More**](#): Enter to my repositries to show all my projects.
+
+## 🌐 Let's Connect
+- **LinkedIn:** [linkedin.com/in/adamwassal](#)
+
+Feel free to explore my repositories and drop a ⭐ if you like something!
