@@ -27,7 +27,7 @@ Here are some of my favorite projects:
 
 ---
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamWael&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamWael&layout=compact&theme=radical)
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamwassal&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwassal&layout=compact&theme=radical)
 
 ✨ *Feel free to explore my repositories and drop a ⭐ if you like something!*  
