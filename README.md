@@ -27,7 +27,7 @@ Here are some of my favorite projects:
 
 ---
 
-<div style="display:flex; justify-content: space-around;">
+<div style="display:flex;">
   
 ![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamwassal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwassal&layout=compact&theme=radical)
