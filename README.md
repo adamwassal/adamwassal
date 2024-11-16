@@ -1,7 +1,6 @@
 # Hi there, I'm Adam Wael 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdamWael&color=brightgreen)  
-🎨 **Front-End Developer** | 🐍 **Python Enthusiast**
+🎨 **Front-End Developer** | 🐍 **Python Developer** | 📱 **Mobile Developer**
 
 Welcome to my GitHub profile! I love building interactive and efficient web applications, mobile applications, and exploring new technologies.
 
