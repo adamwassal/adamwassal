@@ -24,5 +24,6 @@ Here are some of my favorite projects:
 - [✨ **And More**](#): Enter my repositories to explore all my projects.  
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwassal&show_icons=true)
 
 ✨ *Feel free to explore my repositories and drop a ⭐ if you like something!*  
