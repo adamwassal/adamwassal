@@ -26,9 +26,6 @@ Here are some of my favorite projects:
 
 ---
 
-## 🌐 Let's Connect 🌟  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/adamwassal)  
-
 ---
 
 ![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamWael&show_icons=true&theme=radical)  
