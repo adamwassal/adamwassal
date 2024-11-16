@@ -2,7 +2,7 @@
 
 🎨 **Front-End Developer** | 🐍 **Python Enthusiast**
 
-Welcome to my GitHub profile! I love building interactive and efficient web applications, Mobile applications, exploring new technologies, and contributing to open-source projects.
+Welcome to my GitHub profile! I love building interactive and efficient web applications, Mobile applications, exploring new technologies.
 
 ## 🔧 Technologies & Tools
 - **Front-End:** HTML5, CSS3, JavaScript
