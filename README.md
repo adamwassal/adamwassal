@@ -22,10 +22,13 @@ I love learning new technologies, solving problems, and turning ideas into reali
 
 ## 🚀 Featured Projects
 
-### 📱 [Eat Today App](#)
+### 📱 [Eat Today App](https://github.com/adamwassal/eat_today_flutter)
 > A Flutter-based mobile app that helps users choose what to eat each day with smart suggestions.
 
-### 🏢 [Project Management System](#)
+### 📱 [Note App](https://github.com/adamwassal/note_app)
+> A Flutter-based mobile app that helps users save the notes with account and database
+
+### 🏢 [Project Management System](https://github.com/adamwassal/project_management_django)
 > A Django web application for managing internal company projects, tasks, and employee roles.
 
 ### 🔎 [Explore More](https://github.com/adamwassal?tab=repositories)
