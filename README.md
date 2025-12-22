@@ -51,8 +51,8 @@ I love learning new technologies, solving problems, and turning ideas into reali
 
 ## 🌐 Freelance Profiles
 
-[![Khamsat](https://img.shields.io/badge/Khamsat-00C853?style=for-the-badge&logo=google-earth&logoColor=white)](https://khamsat.com/user/USERNAME)
-[![Mostaql](https://img.shields.io/badge/Mostaql-1976D2?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaql.com/u/USERNAME)
+[![Khamsat](https://khamsat.com/user/adamwassal)
+[![Mostaql](https://mostaql.com/u/adamwassal)
 
 
 ---
