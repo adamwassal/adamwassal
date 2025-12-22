@@ -57,7 +57,7 @@ I love learning new technologies, solving problems, and turning ideas into reali
   </a>
 
   <a href="https://mostaql.com/u/adamwassal" target="_blank">
-    <img src="motql.png" alt="Mostaql Profile" width="160"/>
+    <img src="mostql.png" alt="Mostaql Profile" width="160"/>
   </a>
 </p>
 
