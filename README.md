@@ -49,11 +49,9 @@ I love learning new technologies, solving problems, and turning ideas into reali
 - ⭐ If you like any of my work, don't forget to star it.
 - 📢 Always open to learning and working on meaningful projects.
 
-## 🌐 Freelance Profiles
+### 🌐 Freelance Profiles
 
-[![Khamsat](https://khamsat.com/user/adamwassal)
-[![Mostaql](https://mostaql.com/u/adamwassal)
-
+[ Khamsat ](https://khamsat.com/user/USERNAME) | [ Mostaql ](https://mostaql.com/u/USERNAME)
 
 ---
 
