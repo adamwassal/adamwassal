@@ -53,11 +53,11 @@ I love learning new technologies, solving problems, and turning ideas into reali
 
 <p align="left">
   <a href="https://khamsat.com/user/adamwassal" target="_blank">
-    <img src="khamsat.jpeg" alt="Khamsat Profile" width="160"/>
+    <img src="khamsat.jpeg" alt="Khamsat Profile" width="100"/>
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://mostaql.com/u/fI_LI_S_TEN" target="_blank">
-    <img src="mostql.png" alt="Mostaql Profile" width="160"/>
+    <img src="mostql.png" alt="Mostaql Profile" width="100"/>
   </a>
 </p>
 
