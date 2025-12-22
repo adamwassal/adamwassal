@@ -49,7 +49,9 @@ I love learning new technologies, solving problems, and turning ideas into reali
 - ⭐ If you like any of my work, don't forget to star it.
 - 📢 Always open to learning and working on meaningful projects.
 
-[![Khamsat](https://img.shields.io/badge/Khamsat-00C853?style=for-the-badge&logo=google-earth&logoColor=white)](https://khamsat.com)
+<a href="https://khamsat.com">
+  <img src="https://khamsat.com/assets/images/logo.svg" width="40"/>
+</a>
 
 ---
 
