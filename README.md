@@ -18,6 +18,7 @@ I love learning new technologies, solving problems, and turning ideas into reali
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![Dart](https://img.shields.io/badge/Dart-02569B?logo=dart&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Github](https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=flat-square)
 
 ---
 
