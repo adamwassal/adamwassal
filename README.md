@@ -44,7 +44,7 @@ I love learning new technologies, solving problems, and turning ideas into reali
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwassal&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adamwassal)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
