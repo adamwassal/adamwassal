@@ -19,6 +19,10 @@ I love learning new technologies, solving problems, and turning ideas into reali
 ![Dart](https://img.shields.io/badge/Dart-02569B?logo=dart&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Github](https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-f7931e?logo=firebase&logoColor=white&style=flat-square)
+![SQLite3](https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![MariaDB](https://img.shields.io/badge/mariadb-003545?logo=mariadb&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 
 ---
 
