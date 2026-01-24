@@ -98,11 +98,11 @@ Explore more **Flutter**, **Python**, and **Full‑Stack** projects.
 
 <p align="left">
   <a href="https://khamsat.com/user/adamwassal" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Khamsat_logo.png" alt="Khamsat" width="120"/>
+    <img src="khamsat.jpeg" alt="Khamsat" width="120"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mostaql.com/u/fI_LI_S_TEN" target="_blank">
-    <img src="https://mostaql.com/favicon.ico" alt="Mostaql" width="120"/>
+    <img src="mostql.png" alt="Mostaql" width="120"/>
   </a>
 </p>
 
