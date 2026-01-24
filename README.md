@@ -41,9 +41,17 @@ stack:
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adamwassal&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
+
+<!-- Option 1: Stable trophy render -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=adamwassal&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+
+<!-- Option 2 (fallback): If the above ever fails, uncomment this -->
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=adamwassal&theme=darkhub&row=2&column=4" /> -->
+
+</div>
 
 ---
 
@@ -111,6 +119,7 @@ stack:
 </div>
 
 ---
+
 
 <div align="center">
 
