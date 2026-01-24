@@ -1,130 +1,104 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== ULTRA WOW HERO ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Adam%20Wael&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Adam%20Wael&fontSize=50&fontColor=ffffff&animation=twinkling" />
 
-### 🚀 Full‑Stack Developer | 📱 Mobile Apps | 🖥️ Desktop Applications
-
-**From Egypt 🇪🇬**
+<h2>⚡ Architect of Code | Builder of Products ⚡</h2>
+<h4>Full-Stack • Mobile • Desktop • Automation</h4>
+<h4>🇪🇬 Egypt</h4>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=adamwassal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/adamwassal?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/adamwassal?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=adamwassal&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/adamwassal?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/adamwassal?style=for-the-badge&color=yellow" />
 </p>
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-```yaml
-name: Adam Wael
-role: Full Stack Developer
-location: Egypt
-stack:
-  frontend: [HTML, CSS, JavaScript, Flutter]
-  backend: [Flask, Django]
-  mobile: [Flutter, Dart]
-  desktop: [Flutter, Python]
-  databases: [MySQL, PostgreSQL, SQLite, MariaDB]
-  tools: [Docker, Git, Linux, Postman, Firebase]
-```
-
-✨ I build **clean**, **scalable**, and **impact‑driven** applications.
-
-🧩 Passionate about solving real problems with code.
-
----
-
-## 🏆 Achievements
+## 🧬 Developer DNA
 
 <div align="center">
 
-<!-- Option 1: Stable trophy render -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=adamwassal&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-
-<!-- Option 2 (fallback): If the above ever fails, uncomment this -->
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=adamwassal&theme=darkhub&row=2&column=4" /> -->
+| 🧠 Mindset        | ⚙️ Stack              | 🎯 Focus          |
+| ----------------- | --------------------- | ----------------- |
+| Problem Solver    | Flutter • Python • JS | Real-World Impact |
+| Clean Code        | Flask • Django        | Performance       |
+| Scalable Thinking | Docker • Linux        | Automation        |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ My Arsenal
 
 <div align="center">
 
-### 🔹 Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,dart,bash" />
-
-### 🔹 Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=flutter,flask,django" />
-
-### 🔹 Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-
-### 🔹 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=linux,git,docker,firebase,figma,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,js,html,css,flask,django,mysql,postgres,sqlite,docker,linux,git,firebase,figma" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 What I Build
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adamwassal&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamwassal&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adamwassal&theme=tokyonight&hide_border=true" />
+🚀 **Production-ready systems**
+📱 **High-performance mobile apps**
+🖥️ **Desktop tools & launchers**
+🌐 **APIs & backend architectures**
+🤖 **Automation & scripting**
 
 </div>
 
 ---
 
-## 🌍 Freelance Profiles
+## 📊 GitHub Power Stats
 
 <div align="center">
 
-<a href="https://khamsat.com/user/adamwassal" target="_blank">
-  <img src="https://img.shields.io/badge/Khamsat-Freelance-success?style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api?username=adamwassal&show_icons=true&theme=radical&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamwassal&layout=compact&theme=radical&hide_border=true" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adamwassal&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Proof of Work
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adamwassal&theme=radical&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 🌍 Freelance & Hire Me
+
+<div align="center">
+
+<a href="https://khamsat.com/user/adamwassal">
+  <img src="https://img.shields.io/badge/Khamsat-Top%20Freelancer-success?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
-<a href="https://mostaql.com/u/fI_LI_S_TEN" target="_blank">
-  <img src="https://img.shields.io/badge/Mostaql-Hire%20Me-blue?style=for-the-badge" />
+<a href="https://mostaql.com/u/fI_LI_S_TEN">
+  <img src="https://img.shields.io/badge/Mostaql-Available%20Now-blue?style=for-the-badge" />
 </a>
 
 </div>
 
 ---
 
-## 🤝 Let’s Connect
-
 <div align="center">
 
-<a href="https://github.com/adamwassal">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<h3>⭐ Star what inspires you. Collaborate to build impact.</h3>
 
-</div>
-
----
-
-
-<div align="center">
-
-### ⭐ If you like my work, consider starring my repositories
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
