@@ -1,72 +1,121 @@
-# 👋 Hi there, I'm Adam Wael
+# 👋 Hi, I'm **Adam Wael**
 
-🎨 **Front-End Developer** | 🐍 **Python Developer** | 📱 **Mobile App Developer**
+🎨 **Front-End Developer** | 🐍 **Python Developer** | 📱 **Flutter Mobile Developer**
 
-Welcome to my GitHub!  
-I’m passionate about building **interactive**, **responsive**, and **efficient** web and mobile applications.  
-I love learning new technologies, solving problems, and turning ideas into reality 🚀
+Welcome to my GitHub profile!
+I’m a passionate developer who loves building **clean**, **interactive**, and **high‑performance** web & mobile applications. I enjoy learning new technologies, solving real problems, and turning ideas into polished products 🚀
+
+---
+
+## 🧑‍💻 About Me
+
+* 💻 Freelancer Web & Mobile Developer
+* 📱 Specialized in **Flutter & Dart**
+* 🌐 Strong background in **Front‑End Development**
+* 🐍 Backend experience with **Python & Django**
+* 🔥 Always learning, always improving
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![Dart](https://img.shields.io/badge/Dart-02569B?logo=dart&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Github](https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-f7931e?logo=firebase&logoColor=white&style=flat-square)
-![SQLite3](https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=white&style=flat-square)
-![MariaDB](https://img.shields.io/badge/mariadb-003545?logo=mariadb&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+### 🌐 Front‑End
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white\&style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white\&style=for-the-badge)
+
+### 🐍 Backend & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white\&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black\&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white\&style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb\&logoColor=white\&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white\&style=for-the-badge)
+
+### 🔧 Tools & Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 [Eat Today App](https://github.com/adamwassal/eat_today_flutter)
-> A Flutter-based mobile app that helps users choose what to eat each day with smart suggestions.
+### 📱 Eat Today App
 
-### 📱 [Note App](https://github.com/adamwassal/note_app)
-> A Flutter-based mobile app that helps users save the notes with account and database
+🔗 [https://github.com/adamwassal/eat_today_flutter](https://github.com/adamwassal/eat_today_flutter)
 
-### 🏢 [Project Management System](https://github.com/adamwassal/project_management_django)
-> A Django web application for managing internal company projects, tasks, and employee roles.
+A Flutter mobile application that helps users decide **what to eat today** with smart and simple suggestions.
 
-### 🔎 [Explore More](https://github.com/adamwassal?tab=repositories)
-> Browse my repos to see more full-stack, mobile, and Python-based projects!
+---
+
+### 📝 Note App
+
+🔗 [https://github.com/adamwassal/note_app](https://github.com/adamwassal/note_app)
+
+A Flutter app for saving notes with:
+
+* User authentication
+* Database integration
+* Clean and simple UI
+
+---
+
+### 🏢 Project Management System
+
+🔗 [https://github.com/adamwassal/project_management_django](https://github.com/adamwassal/project_management_django)
+
+A Django‑based web application for:
+
+* Managing company projects
+* Task assignments
+* Employee roles & permissions
+
+---
+
+### 🔎 More Projects
+
+👉 [https://github.com/adamwassal?tab=repositories](https://github.com/adamwassal?tab=repositories)
+
+Explore more **Flutter**, **Python**, and **Full‑Stack** projects.
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adamwassal)](https://github.com/adamwassal/github-readme-stats)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adamwassal\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🌟 Let's Connect
-
-- 📬 Feel free to reach out or collaborate on interesting ideas!
-- ⭐ If you like any of my work, don't forget to star it.
-- 📢 Always open to learning and working on meaningful projects.
-
-## 🌐 Freelance Profiles
+## 🌍 Freelance Profiles
 
 <p align="left">
-  <a href="https://khamsat.com/user/adamwassal" target="blank">
-    <img src="khamsat.jpeg" alt="Khamsat Profile" width="100"/>
+  <a href="https://khamsat.com/user/adamwassal" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Khamsat_logo.png" alt="Khamsat" width="120"/>
   </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://mostaql.com/u/fI_LI_S_TEN" target="blank">
-    <img src="mostql.png" alt="Mostaql Profile" width="100"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mostaql.com/u/fI_LI_S_TEN" target="_blank">
+    <img src="https://mostaql.com/favicon.ico" alt="Mostaql" width="120"/>
   </a>
 </p>
 
 ---
 
-_“Consistency beats intensity.” — Stay committed to the code._
+## 🤝 Let’s Connect
 
+* 📬 Open for **freelance work** and **collaborations**
+* ⭐ Star repositories you like
+* 🚀 Interested in meaningful & impactful projects
+
+---
+
+> *“Consistency beats intensity.”*
+
+**Stay committed to the code. 💙**
