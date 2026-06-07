@@ -1,18 +1,20 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HERO ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Adam%20Wael&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=230&section=header&text=Adam%20Wael&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-### 🚀 Full‑Stack Developer | 📱 Mobile Apps | 🖥️ Desktop Applications
+<h2>🚀 Full-Stack Developer | 📱 Mobile Apps</h2>
 
-**From Egypt 🇪🇬**
+<p><b>Crafting scalable, modern & user-focused applications</b></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=adamwassal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/adamwassal?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/adamwassal?label=Stars&style=for-the-badge" />
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Flutter+Developer;Full+Stack+Engineer;Django+%7C+Flask+Backend;Building+Real+World+Projects;Always+Learning+New+Tech" />
 
 </div>
 
@@ -23,39 +25,42 @@
 ```yaml
 name: Adam Wael
 role: Full Stack Developer
-location: Egypt
+location: Egypt 🇪🇬
+experience: Building scalable apps & systems
+focus: Clean Architecture & Performance
+
 stack:
-  frontend: [HTML, CSS, JavaScript, Flutter]
-  backend: [Flask, Django]
+  frontend: [HTML, CSS, JavaScript]
   mobile: [Flutter, Dart]
+  backend: [Django, Flask]
   desktop: [Flutter, Python]
-  databases: [MySQL, PostgreSQL, SQLite, MariaDB]
-  tools: [Docker, Git, Linux, Postman, Firebase]
+  databases: [PostgreSQL, MySQL, SQLite]
+  tools: [Docker, Git, Linux, Firebase, Postman]
 ```
 
-✨ I build **clean**, **scalable**, and **impact‑driven** applications.
-
-🧩 Passionate about solving real problems with code.
+✨ I build **clean**, **fast**, and **scalable systems**
+🧩 I turn ideas into **real-world products**
+🔥 Always improving & learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 🔹 Languages
+### 🧑‍💻 Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,bash" />
 
-### 🔹 Frameworks & Libraries
+### ⚙️ Frameworks
 
-<img src="https://skillicons.dev/icons?i=flutter,flask,django" />
+<img src="https://skillicons.dev/icons?i=flutter,django,flask" />
 
-### 🔹 Databases
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
 
-### 🔹 Tools & Platforms
+### 🛠 Tools
 
 <img src="https://skillicons.dev/icons?i=linux,git,docker,firebase,figma,postman" />
 
@@ -63,11 +68,14 @@ stack:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adamwassal&theme=tokyonight&hide_border=true" height="170"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=adamwassal&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamwassal&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
@@ -82,24 +90,22 @@ stack:
 <tr>
 <td width="50%">
 
-### 🌿 رياض الجنة  
-**adamwassal.github.io**
+### 🌿 رياض الجنة
 
-🕌 Islamic web platform  
-✨ Clean UI • Spiritual content • Fast & lightweight  
+🕌 Islamic Platform
+✨ Clean UI • Fast • Spiritual
 
-🔗 **Live:** https://adamwassal.github.io  
+🔗 https://adamwassal.github.io
 
 </td>
 <td width="50%">
 
-### 🧠 Quiz Master  
-**Mobile Application**
+### 🧠 Quiz Master
 
-📱 Interactive quiz app  
-🏆 Score system • Multiple categories • Smooth UX  
+📱 Quiz App
+🏆 Score System • Categories • Smooth UX
 
-🛠️ Flutter • Dart • Firebase
+🛠 Flutter • Firebase
 
 </td>
 </tr>
@@ -107,24 +113,22 @@ stack:
 <tr>
 <td width="50%">
 
-### 🌸 Flower App  
-**E-Commerce Mobile App**
+### 🌸 Flower App
 
-🛒 Online flower store  
-💳 Cart • Orders • Beautiful product UI  
+🛒 E-Commerce App
+💳 Cart • Orders • Beautiful UI
 
-🛠️ Flutter • Firebase  
+🛠 Flutter • Firebase
 
 </td>
 <td width="50%">
 
-### 🍽️ Eat Today  
-**Smart Meal Recommendation App**
+### 🍽️ Eat Today
 
-📅 Suggests meals based on **today’s calendar**  
-🥗 Healthy • Organized • Daily planning  
+📅 Smart Meal Planner
+🥗 Daily Suggestions • Organized
 
-🛠️ Flutter • Local Storage  
+🛠 Flutter
 
 </td>
 </tr>
@@ -132,24 +136,22 @@ stack:
 <tr>
 <td width="50%">
 
-### 🕌 صلواتك (Salawatak)  
-**Qur’an & Prayer App**
+### 🕌 صلواتك
 
-📖 Qur’an • 🕰️ Prayer Times • 🔔 Adhan  
-🌙 Minimal • Accurate • Faith-focused  
+📖 Qur’an & Prayer App
+🕰️ Accurate • Minimal • Useful
 
-🛠️ Flutter • APIs  
+🛠 Flutter • APIs
 
 </td>
 <td width="50%">
 
-### 📊 Project Management System  
-**Django Web App**
+### 📊 Project Management System
 
-📁 Tasks • Users • Roles  
-⚙️ Scalable backend architecture  
+📁 Tasks • Roles • Users
+⚙️ Scalable Backend
 
-🛠️ Django  
+🛠 Django
 
 </td>
 </tr>
@@ -160,15 +162,15 @@ stack:
 
 ---
 
-## 🌍 Freelance Profiles
+## 💼 Freelance Presence
 
 <div align="center">
 
-<a href="https://khamsat.com/user/adamwassal" target="_blank">
-  <img src="https://img.shields.io/badge/Khamsat-Freelance-success?style=for-the-badge" />
+<a href="https://khamsat.com/user/adamwassal">
+  <img src="https://img.shields.io/badge/Khamsat-Work%20With%20Me-success?style=for-the-badge" />
 </a>
-&nbsp;&nbsp;
-<a href="https://mostaql.com/u/fI_LI_S_TEN" target="_blank">
+
+<a href="https://mostaql.com/u/fI_LI_S_TEN">
   <img src="https://img.shields.io/badge/Mostaql-Hire%20Me-blue?style=for-the-badge" />
 </a>
 
@@ -176,23 +178,24 @@ stack:
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/adamwassal">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+
 
 </div>
 
 ---
 
-
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories
+### ⭐ If you like my work, drop a star — it means a lot!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=120&section=footer" />
 
 </div>
